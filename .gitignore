@@ -1,3 +1,4 @@
 .env
 *.csv
 *.pt
+src/insurance_model/model.pt
